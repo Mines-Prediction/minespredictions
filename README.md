@@ -1,4 +1,4 @@
-```markdown
+
 # 🚀 Mines Predictor – Smart Tool for Mines & Gems Games
 
 [![GitHub release](https://img.shields.io/github/v/release/minespredictor/mines-predictor)](https://github.com/minespredictor/mines-predictor/releases)
