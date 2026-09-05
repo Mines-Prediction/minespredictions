@@ -10,7 +10,7 @@
 **Mines Predictor** is a community-driven, AI-assisted pattern analysis tool designed for players who enjoy Mines and Gems-style games. It does **not** guarantee wins – instead, it helps you make more informed decisions by analyzing historical round data and identifying statistical tendencies in tile placements.
 
 > 🔗 **Official Website:** [https://minespredict.com](https://minespredict.com)  
-> 📦 **Download Latest Release:** [Mines Predictor Download](https://github.com/minespredictor/mines-predictor/releases)
+> 📦 **Download Latest Release:** [Mines Predictor Download](https://minespredict.com)
 
 ---
 
